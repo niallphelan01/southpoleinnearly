@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+p {
+    color: #808080;
+    /*margin-right: auto;
+    margin-left: auto;*/
+    justify-content: center;
+    line-height: 2em;
+  }
+.container {
+    display: flex;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    float: middle;
+    background: #222;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    justify-content: center;
+    /*background: #222;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;*/
+}
+#timer {
+    color: #fff;
+    font-size: 4rem;
+}
+#subdoc {
+    color: #fff;
+    font-size: 30px;
+}
+.label {
+    font-size: 2.5rem;
+    padding-left: 0.25rem;
+}
+.medium-centre-img {
+    display: flex;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    float: middle;
+    
+  }
+  /* We're working with the body tag, and so with the WHOLE page */
+body
+{
+    background-color: #222; /* The page background will be black */
+     /* The page text will be white */
+}
+
+/*100vh*/
