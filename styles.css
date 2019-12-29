@@ -1,12 +1,7 @@
-body {
-    margin: 0;
-    padding: 0;
-}
+
 a {
     color: #808080;
-
-    
-    font-size: 30px;
+    font-size: 40px;
      margin: 4%;
     /*margin-right: auto;
     margin-left: auto;*/
@@ -15,6 +10,7 @@ a {
 }
 p {
     color: #808080;
+
     /*margin-right: auto;
     margin-left: auto;*/
     justify-content: center;
@@ -28,7 +24,6 @@ p {
     float: middle;
     background: #222;
     align-items: center;
-    justify-content: center;
     width: 100%;
     justify-content: center;
     /*background: #222;
