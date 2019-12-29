@@ -26,7 +26,7 @@ var timer = setInterval(function() {
     
     } else {
 
-        document.getElementById("timer").innerHTML = "The countdown is over!";
+        document.getElementById("timer").innerHTML = "If you can read this you've made it to 2020!";
     
     }
     
